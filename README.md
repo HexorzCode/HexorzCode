@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/107131696?s=400&u=fb6f0baa1c260fe0a264fe7032d941c14f9d0e5f&v=4"/>
+  <img height="150" src="https://avatars.githubusercontent.com/u/107131696?s=400&u=fb6f0baa1c260fe0a264fe7032d941c14f9d0e5f&v=4"  />
 </div>
 
 ###
@@ -57,5 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HexorzCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=aura&hide_border=false&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=HexorzCode&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/HexorzCode/HexorzCode/output/snake.svg" alt="Snake animation" />
 
 ###
